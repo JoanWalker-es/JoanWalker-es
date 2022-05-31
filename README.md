@@ -5,6 +5,9 @@
   Hola! mi nombre es Juan De la Rubia y soy desarrollador junior de aplicaciones multiplataforma. 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/EIiJp9cQ3GeEU/giphy.gif" width="150"/>
+</div>
 
 <div align="center" id="badges">  
   <a href="https://www.linkedin.com/in/juan-de-la-rubia/">
@@ -17,6 +20,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="150"/>
 </div>
+
+
+
+
 
 
 <!--
