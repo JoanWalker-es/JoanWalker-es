@@ -30,6 +30,7 @@
 - [App Android Enigma2 Cccam Uploader.](https://github.com/JoanWalker-es/app_FTP_Android)
 - [Aplicación de escritorio java para modificar archivos de configuración de decodificadores basados en linux Enigma2.](https://github.com/JoanWalker-es/app_ftp_decodificador)
 
+--- 
 ⚡️  Tecnologías:
 
 <div>
@@ -52,7 +53,7 @@
 </div>
 
 
-
+--- 
 ✉ Contacta conmigo ✉
 <div align="left" id="badges">  
   <a href="https://www.linkedin.com/in/juan-de-la-rubia/">
