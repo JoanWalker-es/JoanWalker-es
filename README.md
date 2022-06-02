@@ -1,7 +1,14 @@
 
 <h3 align="center">
-  Hola! mi nombre es Juan De la Rubia y soy desarrollador junior de aplicaciones multiplataforma. 
+  Hola, soy Juan De la Rubia 👋
 </h3>
+
+<h2 align="center">
+  Soy desarrollador junior de aplicaciones multiplataforma 
+</h2>
+
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/EIiJp9cQ3GeEU/giphy.gif" width="150"/>
 </div>
