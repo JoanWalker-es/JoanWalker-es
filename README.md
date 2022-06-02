@@ -1,22 +1,24 @@
 
 <h3 align="center">
   Hola! mi nombre es Juan De la Rubia y soy desarrollador junior de aplicaciones multiplataforma. 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/EIiJp9cQ3GeEU/giphy.gif" width="150"/>
 </div>
 
-<div align="center" id="badges">  
-  <a href="https://www.linkedin.com/in/juan-de-la-rubia/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 
 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="150"/>
+</div>
+
+✉ Contacta conmigo ✉
+<div align="left" id="badges">  
+  <a href="https://www.linkedin.com/in/juan-de-la-rubia/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 
