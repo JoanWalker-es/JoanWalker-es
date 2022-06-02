@@ -17,8 +17,7 @@
 - Spring framework. Spring Core, Spring Lombok, Spring Data, Spring MVC, Spring Cloud. 
 - Persistencia JPA, Hibernate.
 - Microservicios.
-- Docker.
-- Eureka.  
+- Docker. 
   
   </p>
 --- 
