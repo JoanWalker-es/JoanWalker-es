@@ -2,11 +2,25 @@
 <h3 align="center">
   Hola, soy Juan De la Rubia 👋
 </h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="150"/>
+</div>
 
-<h2 align="center">
-  Soy desarrollador junior de aplicaciones multiplataforma 
-</h2>
 
+<h4 align="center">
+  Desarrollador junior de aplicaciones multiplataforma. 
+</h4>
+<p>
+  Actualmente me estoy formando en un curso de especialización de java y microservicios con la empresa Hiberus. 
+  
+  Donde aprenderé y afianzaré mis conocimientos en:  
+- Spring framework. Spring Core, Spring Lombok, Spring Data, Spring MVC, Spring Cloud. 
+- Persistencia JPA, Hibernate.
+- Microservicios.
+- Docker.
+- Eureka.  
+  
+  </p>
 
 
 <div id="header" align="center">
@@ -17,9 +31,8 @@
 
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="150"/>
-</div>
+
+
 
 ✉ Contacta conmigo ✉
 <div align="left" id="badges">  
