@@ -11,8 +11,7 @@
   Desarrollador de aplicaciones multiplataforma. 
 </h4>
 <p>
-  Formando en un curso de especialización de java y microservicios con la empresa Hiberus. 
-      
+  Formado en a través de un curso de especialización de java y microservicios con la empresa Hiberus en:      
 - Spring framework. Spring Core, Spring Lombok, Spring Data, Spring MVC, Spring Cloud. 
 - Persistencia JPA, Hibernate.
 - Microservicios.
