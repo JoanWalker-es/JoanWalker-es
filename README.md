@@ -12,6 +12,7 @@
 </h4>
 <p>
   Formado en a través de un curso de especialización de java y microservicios con la empresa Hiberus en:      
+  
 - Spring framework. Spring Core, Spring Lombok, Spring Data, Spring MVC, Spring Cloud. 
 - Persistencia JPA, Hibernate.
 - Microservicios.
