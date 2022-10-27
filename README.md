@@ -8,12 +8,11 @@
 
 --- 
 <h4 align="center">
-  Desarrollador junior de aplicaciones multiplataforma. 
+  Desarrollador de aplicaciones multiplataforma. 
 </h4>
 <p>
-  Actualmente me estoy formando en un curso de especialización de java y microservicios con la empresa Hiberus. 
-  
-  Donde aprenderé y afianzaré mis conocimientos en:  
+  Formando en un curso de especialización de java y microservicios con la empresa Hiberus. 
+      
 - Spring framework. Spring Core, Spring Lombok, Spring Data, Spring MVC, Spring Cloud. 
 - Persistencia JPA, Hibernate.
 - Microservicios.
