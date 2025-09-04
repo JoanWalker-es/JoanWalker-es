@@ -2,10 +2,6 @@
 <h3 align="center">
   Hola, soy Juan De la Rubia 👋
 </h3>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="150"/>
-</div>
-
 --- 
 <h4 align="center">
   Desarrollador de aplicaciones multiplataforma. 
