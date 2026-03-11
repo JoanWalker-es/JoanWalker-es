@@ -4,15 +4,13 @@
 </h3>
 --- 
 <h4 align="center">
-  Desarrollador de aplicaciones multiplataforma. 
+  Desarrollador Backend. 
 </h4>
 <p>
-  Aparte de mi formación oficial en DAM, me he formado con un curso de especialización de java y microservicios con la empresa Hiberus en:      
-  
-- Spring framework. Spring Core, Spring Lombok, Spring Data, Spring MVC, Spring Cloud. 
-- Persistencia JPA, Hibernate.
-- Microservicios.
-- Docker. 
+Soy un desarrollador de aplicaciones con un fuerte enfoque en el backend. Mi experiencia principal se centra en el ecosistema de Java, donde he trabajado extensamente con tecnologías como Spring Framework (Spring Core, Spring Data, Spring MVC, Spring Cloud) y persistencia con JPA/Hibernate.
+
+Además, tengo experiencia en la creación de arquitecturas de microservicios y en la contenerización de aplicaciones con Docker.
+
   
   </p>
 --- 
@@ -23,29 +21,6 @@
 - [Dog-Night Proyecto final de ciclo.](https://github.com/JoanWalker-es/dog-night) 
 - [App Android Enigma2 Cccam Uploader.](https://github.com/JoanWalker-es/app_FTP_Android)
 - [Aplicación de escritorio java para modificar archivos de configuración de decodificadores basados en linux Enigma2.](https://github.com/JoanWalker-es/app_ftp_decodificador)
-
---- 
-⚡️  Tecnologías:
-
-<div>
-  <a href="https://www.java.com">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</a>
-  <a href="https://spring.io/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;</a>
-  <a href="https://www.mysql.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;</a>
-  <a href="https://git-scm.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;</a>
-  <a href="https://www.oracle.com">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;</a>
-  <a href="https://docs.microsoft.com/es-es/dotnet/csharp/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;</a>
-  
-  
-</div>
-
 
 --- 
 ✉ Contacta conmigo ✉
