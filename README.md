@@ -4,10 +4,10 @@
 </h3>
 --- 
 <h4 align="center">
-  Desarrollador Backend. 
+  Desarrollador  
 </h4>
 <p>
-Soy un desarrollador de aplicaciones con un fuerte enfoque en el backend. Mi experiencia principal se centra en el ecosistema de Java, donde he trabajado extensamente con tecnologías como Spring Framework (Spring Core, Spring Data, Spring MVC, Spring Cloud) y persistencia con JPA/Hibernate.
+Soy un desarrollador de software con un fuerte enfoque en el backend. Mi experiencia principal se centra en el ecosistema de Java, donde he trabajado extensamente con tecnologías como Spring Framework (Spring Core, Spring Data, Spring MVC, Spring Cloud) y persistencia con JPA/Hibernate.
 
 Además, tengo experiencia en la creación de arquitecturas de microservicios y en la contenerización de aplicaciones con Docker.
 
